@@ -30,6 +30,7 @@ const kyberPrice = async () => {
     }
 }
 
+
 const Kyber_ETH_DAI = async () => {
     try {
         const Kyber_ETH_DAI = await Promise.all([
