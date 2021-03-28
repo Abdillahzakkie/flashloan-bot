@@ -1,0 +1,17 @@
+{
+  "name": "flashloan-starter",
+  "version": "1.0.0",
+  "description": "Flashloan and Arbitrage",
+  "main": "index.js",
+  "author": "abdullah zakariyya <zakariyyaopeyemi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0-rc.0",
+    "@openzeppelin/test-helpers": "^0.5.10",
+    "@truffle/hdwallet-provider": "^1.2.4",
+    "chai": "^4.3.4",
+    "dotenv": "^8.2.0",
+    "ganache-cli": "^6.12.2",
+    "truffle": "^5.2.5"
+  }
+}
